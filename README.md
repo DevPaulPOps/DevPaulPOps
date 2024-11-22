@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/paulpp78/paulpp78/blob/main/Gif/Presentation.gif" width="500" height="250">
+  <img src="https://github.com/DevPaulPOps/DevPaulPOps/blob/main/Gif/Presentation.gif" width="500" height="250">
 </p>
 
 <!-- Title -->
@@ -13,7 +13,7 @@
 <h3 align="center">A Inginer DevOps Apprentice from France. I study at Esiea and work at WeVii</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulpp78&label=Profile%20views&color=0e75b6&style=flat" alt="paulpp78" />
+  <img src="https://komarev.com/ghpvc/?username=DevPaulPOps&label=Profile%20views&color=0e75b6&style=flat" alt="DevPaulPOps" />
 </p>
 
 <!-- About Me -->
@@ -76,39 +76,39 @@
 <!-- Completed Projects -->
 <h2 align="center" style="color: #1F222E;">Completed Projects</h2>
 <p align="center">
-  <a href="https://github.com/paulpp78/AppSearchCenterDisabilities">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=AppSearchCenterDisabilities&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppSearchCenterDisabilities">
+  <a href="https://github.com/DevPaulPOps/AppSearchCenterDisabilities">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevPaulPOps&repo=AppSearchCenterDisabilities&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppSearchCenterDisabilities">
   </a>
   &nbsp;
-  <a href="https://github.com/paulpp78/appMedicFront">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=AppMedicFront&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppMedicFront">
+  <a href="https://github.com/DevPaulPOps/appMedicFront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevPaulPOps&repo=AppMedicFront&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppMedicFront">
   </a>
   &nbsp;
-  <a href="https://github.com/paulpp78/appMedicBack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=AppMedicBack&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppMedicBack">
+  <a href="https://github.com/DevPaulPOps/appMedicBack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevPaulPOps&repo=AppMedicBack&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppMedicBack">
   </a>
   &nbsp;
-  <a href="https://github.com/paulpp78/gestionMediatheque">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=ManaLib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Library Management">
+  <a href="https://github.com/DevPaulPOps/gestionMediatheque">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevPaulPOps&repo=ManaLib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Library Management">
   </a>
 </p>
 
 <!-- Stats -->
 <h2 align="center" style="color: #1F222E;">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulpp78&show_icons=true&theme=dark" alt="Github Stats" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulpp78&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPaulPOps&show_icons=true&theme=dark" alt="Github Stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPaulPOps&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" width="400px" />
 </p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulpp78&theme=github-compact" alt="Paul's GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPaulPOps&theme=github-compact" alt="Paul's GitHub Activity Graph">
   </a>
 </p>
 
 <!-- Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulpp78" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=DevPaulPOps" alt="GitHub Trophies">
   </a>
 </p>
 
@@ -118,7 +118,7 @@
   <a href="https://www.linkedin.com/in/paul-perigault/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/paulpp78/" target="_blank">
+  <a href="https://github.com/DevPaulPOps/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
